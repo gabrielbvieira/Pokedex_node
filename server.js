@@ -10,7 +10,6 @@ server.listen(port, () => {
 
 /*
 Endpoints:
-    - Registrar pokémon
-    - Recuperar pokedex
-    - Pesquisar pokémon já registrado
+    - Registrar jogador
+    - Recuperar jogador
 */
